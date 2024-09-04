@@ -1,4 +1,4 @@
-# airbnb-data-analysis
+
 # Airbnb Data Analysis
 
 This project involves an in-depth data analysis of Airbnb listings in Rio de Janeiro, Brazil. The analysis is performed using Python and various data science libraries, with the goal of uncovering trends, insights, and potential opportunities within the Airbnb market in Rio de Janeiro.
